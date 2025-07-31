@@ -10,7 +10,7 @@ public class MessageController {
 
 	@GetMapping("/message")
 	public String getMessage() {
-		return "Hello World";
+		return "Hello World Bhuvan Gowda";
 	}
 
 }
